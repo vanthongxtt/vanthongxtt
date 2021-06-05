@@ -6,7 +6,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class IoTDeveloper:
     def __init__(self):
         self.name = "Lam Van Thong"
         self.role = "IoT Developer"
